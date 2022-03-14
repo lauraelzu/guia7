@@ -1,0 +1,21 @@
+ PRIMER EJERCICIO
+1. Primero deberemos estar registrados en GitHub, tener instalado Git y tener configurado
+git en la computadora con nuestras credenciales
+2. Luego tendremos que crear desde GitHub un repositorio SIN ARCHIVO README y
+copiar la URL directa hacia el repositorio.
+3. Crear una carpeta que contenga un archivo .txt con un mensaje inicial
+4. Recordar que deberemos inicializar el repositorio haciendo click derecho sobre la
+carpeta que contiene el archivo y abrir Git . O también podremos hacer click derecho en
+un lugar en blanco al costado del archivo .txt. Inicializar el repositorio con:
+5. git init
+6. Vincular y conectar nuestro repositorio local con el remoto usando:
+7. git remote add origin URL
+8. Luego controlo los cambios que están bajo observación en la rama principal con:
+9. git status
+10. Luego añado los cambios de todos los archivos con:
+11. git add .
+12. Luego comiteo los cambios con:
+13. git commit –m “Mensaje”
+14. Y finalmente hago un git push origin para mandar mis cambios al repositorio remoto
+15. Podría cambiar el mensaje del .txt y volver a repetir los pasos desde el 2 al 10 y debería
+ver en la pagina de git mis cambios
