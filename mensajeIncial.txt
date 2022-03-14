@@ -19,3 +19,7 @@ un lugar en blanco al costado del archivo .txt. Inicializar el repositorio con:
 14. Y finalmente hago un git push origin para mandar mis cambios al repositorio remoto
 15. Podría cambiar el mensaje del .txt y volver a repetir los pasos desde el 2 al 10 y debería
 ver en la pagina de git mis cambios
+
+Primera moficicación
+____________________________________
+____________________________________
